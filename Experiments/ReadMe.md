@@ -2,7 +2,7 @@
 
 ## Contents
 
-This folder contains notebooks for the following tasks :-
+This folder contains notebooks(colab only) for the following tasks :-
 
 1. Captioning 
     - [timesformer-gpt2-videocaptioning](timesformer-gpt2-videocaptioning.ipynb)  
