@@ -2,6 +2,9 @@
 
 ## Description
 
+![Approach for Task 1](media\Task1.jpg)
+![Approach for Task 2](media\Task2.jpg)
+
 ## Contents
 This repository contains the following :-
 1. Colab Notebooks for both the tasks. Instructions for which is mentioned in the notebook itself. 
