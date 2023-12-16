@@ -4,9 +4,10 @@
 &emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GXOhJ7rDmb-6ijpZzxTroug7I_ACbiNE?usp=sharing) &emsp; &nbsp;&emsp;  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zulk3BocFkqu1xTUbQwcvH7NqhYplHeZ?usp=sharing) 
 
 <div style="display: flex; justify-content: center;">
-    <img src="media\photo1.png" alt="Image 1" style="width:40%; margin-right: 100px;">
-    <img src="media\photo2.png" alt="Image 2" style="width:40%;">
+    <img src="media/photo1.png" alt="Image 1" style="width:40%; margin-right: 100px;">
+    <img src="media/photo2.png" alt="Image 2" style="width:40%;">
 </div>
+
 
 
 ## Description
