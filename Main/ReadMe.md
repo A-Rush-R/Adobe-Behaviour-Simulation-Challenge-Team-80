@@ -1,9 +1,10 @@
 # Behaviour Simulation Challenge
 
 ## Description
-
-![Approach for Task 1](media\Task1.jpg)
-![Approach for Task 2](media\Task2.jpg)
+<img src = "media\Task1.jpg">
+<img src = "media\Task2.jpg">
+<!-- ![Approach for Task 1](media\Task1.jpg)
+![Approach for Task 2](media\Task2.jpg) -->
 
 ## Contents
 This repository contains the following :-
