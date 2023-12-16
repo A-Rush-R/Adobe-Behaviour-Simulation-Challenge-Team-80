@@ -10,8 +10,8 @@ pip install -r requirements.txt
 ```
 
 ### Running the model
-Make sure to download the the dataset and give the path to it in the code below 
-
+- Make sure you are in the `Task_1/` directory and download the dataset there.
+- Run the command below for getting the like predictions :-
 ```
 python main.py "<$path_to_excel_file>" 
 ```
