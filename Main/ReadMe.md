@@ -1,7 +1,7 @@
 # Behaviour Simulation Challenge
 
 **Behaviour Simulation** | **Content Simulation** <br>
-&emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GXOhJ7rDmb-6ijpZzxTroug7I_ACbiNE?usp=sharing) &emsp; |&emsp;  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zulk3BocFkqu1xTUbQwcvH7NqhYplHeZ?usp=sharing) 
+&emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GXOhJ7rDmb-6ijpZzxTroug7I_ACbiNE?usp=sharing) &emsp; &emsp;&emsp;  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zulk3BocFkqu1xTUbQwcvH7NqhYplHeZ?usp=sharing) 
 
 ## Description
 
@@ -18,7 +18,7 @@ This repository contains the following :-
     - [behaviour_simulation_test_time.xlsx](/results/behaviour_simulation_test_time.xlsx)
     - [content_simulation_test_company.xlsx](/results/content_simulation_test_company.xlsx)
     - [content_simulation_test_time.xlsx](/results/content_simulation_test_time.xlsx)
-3. Report for the problem statement. 
+3. [Report](report.pdf) for the problem statement. 
 4. [Experiments](Experiments/) folder, containing notebooks for all the approaches undertaken by us.
 5. [Behaviour_Simulation](Behaviour_Simulation/) folder, containing the code for running our Behaviour Simulation model on custom dataset.
 6. [Content_Simulation](Content_Simulation/) folder, containing the code for running our Content Simulation model on custom dataset.
