@@ -4,9 +4,13 @@
 
 <p align="center">
     <img src = "media\Task1.jpg" height="300" alt="Image">
+  <br>
+  <em>Approach for Task 1</em>
 </p>
 <p align="center">
     <img src = "media\Task2.jpg" height="300" alt="Image">
+  <br>
+  <em>Approach for Task 2</em>
 </p>
 
 <!-- ![Approach for Task 1](media\Task1.jpg)
