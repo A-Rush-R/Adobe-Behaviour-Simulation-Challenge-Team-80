@@ -1,7 +1,8 @@
 # Behaviour Simulation
-
 ---
+
 ## USAGE
+
 ### Setup
 Switch to the `/Task_1/` directory and install the dependencies :-
 ```

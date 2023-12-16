@@ -8,7 +8,9 @@ pip install -r requirments.txt
 
 
 ## Instructions
-Run the command below to save the results as `` 
+- Make sure you are in the `Task_1/` directory and download the dataset there.
+- Run the command below for getting the like predictions :-
 ```
-python task_2.py
+python main.py  
 ``` 
+The results can be found as `results.xlsx` in the `outputs/` directory.

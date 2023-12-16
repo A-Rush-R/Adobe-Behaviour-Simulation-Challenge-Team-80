@@ -6,6 +6,7 @@ import tensorflow as tf
 from tensorflow.keras.models import load_model
 from batchGenerator import GetTensor
 from media_proc import embed_df
+import os
 
 def main(dataset_path):
     # name = "time" #
@@ -28,7 +29,8 @@ def main(dataset_path):
     predictions = model.predict(test_gen)
 
     og_df['predicted_likes'] = predictions
-    og_df.to_csv("Submission.csv", index=False)
+    os.mkdir("results",exist_ok = True)
+    og_df.to_csv("outputs/results.xlsx", index=False)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Process dataset and make predictions.")
