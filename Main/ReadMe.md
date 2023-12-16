@@ -3,7 +3,7 @@
 ## Contents
 This repository contains the following :-
 1. Colab Notebooks for both the tasks. Instructions for which is mentioned in the notebook itself. 
-2. Folder containing result -> results/
+2. [result](result/) folder containing result :-
     - [behaviour_simulation_test_company.xlsx](/results/behaviour_simulation_test_company.xlsx)
     - [behaviour_simulation_test_time.xlsx](/results/behaviour_simulation_test_time.xlsx)
     - [content_simulation_test_company.xlsx](/results/content_simulation_test_company.xlsx)
