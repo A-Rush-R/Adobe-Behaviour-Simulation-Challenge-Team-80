@@ -2,7 +2,8 @@
 ---
 
 ## Instructions
-Following are the setup and running instructions for this script. If the script fails to run, for any reason, please refer to [this](https://colab.research.google.com/drive/1Zulk3BocFkqu1xTUbQwcvH7NqhYplHeZ?usp=sharing) colab instance for running the model
+Following are the setup and running instructions for this script.
+If the script FAILS to run, for any reason, please refer to [this](https://colab.research.google.com/drive/1Zulk3BocFkqu1xTUbQwcvH7NqhYplHeZ?usp=sharing) colab instance for running the model
 
 ### Setup 
 Switch to the `Content_Simulation/` directory and install the dependencies :-
