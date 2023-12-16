@@ -4,6 +4,8 @@
 
 <p align="center">
     <img src = "media\Task1.jpg" height="200" alt="Image">
+</p>
+<p align="center">
     <img src = "media\Task2.jpg" height="200" alt="Image">
 </p>
 
