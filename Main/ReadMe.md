@@ -1,8 +1,8 @@
 # Behaviour Simulation Challenge
 
 ## Description
-<img src = "media\Task1.jpg">
-<img src = "media\Task2.jpg">
+<img src = "media\Task1.jpg", style="width:35em">
+<img src = "media\Task2.jpg", style="width:35em">
 <!-- ![Approach for Task 1](media\Task1.jpg)
 ![Approach for Task 2](media\Task2.jpg) -->
 
