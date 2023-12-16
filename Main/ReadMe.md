@@ -22,7 +22,7 @@ This repository contains the following :-
 
 ## Instructions
 For the instructions on how to run the models, check out the ReadMe in the [Behaviour_Simulation](Behaviour_Simulation/) and [Content_Simulation](Content_Simulation/) folder. If for any reason the code does not run, please go to the colab instances :-
-- [Colab instance for Behaviour Simulation Task](https://colab.research.google.com/drive/1GXOhJ7rDmb-6ijpZzxTroug7I_ACbiNE?usp=sharing)
+- [Colab instance for Behaviour Simulation Task](https://colab.research.google.com/drive/1GXOhJ7rDmb-6ijpZzxTroug7I_ACbiNE?usp=sharing) 
 - [Colab instance for Content Simulation Task](https://colab.research.google.com/drive/1Zulk3BocFkqu1xTUbQwcvH7NqhYplHeZ?usp=sharing)
 
 ## Approach
