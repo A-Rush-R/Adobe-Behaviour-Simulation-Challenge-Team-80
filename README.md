@@ -7,15 +7,20 @@
 ## Description
 
 ### Behaviour Simulation
-<div style="display: flex; justify-content: center;">
+
+<p align="center">
     <img src="media/photo1.png" alt="Image 1" style="width:40%; ">    
-</div>
+</p>
+
 The task at hand involved predicting user engagement, specifically the number of likes, for tweets. The prediction was based on various factors, including the content of the tweet (text), the associated company, the username of the account posting the tweet, any media URLs included, and the timestamp of the tweet. This problem required the development of a predictive model that can effectively analyze these features to estimate the likely number of likes a tweet will receive
-<div style="display: flex; justify-content: center;">
-    <img src="media/photo2.png" alt="Image 2" style="width:40%;">   
-</div>
+
 
 ### Content Simulation
+
+<p align="center">
+    <img src="media/photo2.png" alt="Image 2" style="width:40%;">   
+</p>
+
 The problem statement revolves around the task of reconstructing or generating the textual content of a tweet based solely on its metadata. The metadata includes information such as the associated company, username, media URL, and timestamp. In essence, the challenge is to infer the message or information conveyed in the tweet without having access to the actual text.
 
 ## Contents
