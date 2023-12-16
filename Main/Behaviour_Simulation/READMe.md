@@ -3,10 +3,7 @@
 ---
 ## Instructions
 Following are the setup and running instructions for this script. 
-If the script fails to run, for any reason, please refer to [this](https://colab.research.google.com/drive/1GXOhJ7rDmb-6ijpZzxTroug7I_ACbiNE?usp=sharing) colab instance for running the model
-<a href="https://colab.research.google.com/github/visual-layer/fastdup/blob/main/examples/quick-dataset-analysis.ipynb">
-    <img src="./gallery/colab_logo.png" height="20">
-</a>
+If the script FAILS to run, for any reason, please refer to [this](https://colab.research.google.com/drive/1GXOhJ7rDmb-6ijpZzxTroug7I_ACbiNE?usp=sharing) colab instance for running the model.
 ### Setup
 Switch to the `Behaviour_Simulation/` directory and install the dependencies :-
 ```
