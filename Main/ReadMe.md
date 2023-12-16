@@ -1,5 +1,7 @@
 # Behaviour Simulation Challenge
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Deci-AI/super-gradients/blob/master/notebooks/transfer_learning_classification.ipynb) 
+
 ## Description
 
 ### Behaviour Simulation
