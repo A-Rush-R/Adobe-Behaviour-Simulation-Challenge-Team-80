@@ -40,7 +40,7 @@ These three are than concatenated and given as input to a series of dense layers
 
 For the content simulation task, we have followed the underlying procedure :-
 1. For the tweet media we have used captioning models
-2. Then using these captions and the tweet meta deta we have engineered a prompt and then given it LLM for tweet generation
+2. Then using these captions and the tweet meta deta we have engineered a prompt and then feeded it to an LLM for tweet generation
 
 After experimenting with various models we decided to go with fastdup-blip model for captions and open-ai gpt-3.5-turbo for the tweet generation.
 
