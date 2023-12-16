@@ -1,6 +1,8 @@
 # Content Simulation 
----
+**Content Simulation** <br>
+&emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zulk3BocFkqu1xTUbQwcvH7NqhYplHeZ?usp=sharing) 
 
+---
 ## Instructions
 Following are the setup and running instructions for this script.
 If the script FAILS to run, for any reason, please refer to [this](https://colab.research.google.com/drive/1Zulk3BocFkqu1xTUbQwcvH7NqhYplHeZ?usp=sharing) colab instance for running the model

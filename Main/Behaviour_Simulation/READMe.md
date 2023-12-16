@@ -1,6 +1,7 @@
 # Behaviour Simulation
---- 
-
+**Behaviour Simulation** 
+&emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GXOhJ7rDmb-6ijpZzxTroug7I_ACbiNE?usp=sharing) 
+---
 ## Instructions
 Following are the setup and running instructions for this script. 
 If the script fails to run, for any reason, please refer to [this](https://colab.research.google.com/drive/1GXOhJ7rDmb-6ijpZzxTroug7I_ACbiNE?usp=sharing) colab instance for running the model
