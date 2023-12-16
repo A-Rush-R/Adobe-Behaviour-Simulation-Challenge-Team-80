@@ -22,3 +22,4 @@ This folder contains notebooks(colab only) for the following tasks :-
     - [VsCNN](VsCNN.ipynb)
 6. Model for Task 2 
     - [Applying_llama2_for_content_generation](Applying_llama2_for_content_generation.ipynb)
+7. Code and Weights for the [NIMA](https://github.com/titu1994/neural-image-assessment/tree/master) and [IIPA](https://github.com/dingkeyan93/Intrinsic-Image-Popularity/blob/master/test.py) model which we experimented with, to get a score on image and use it in the likes prediction. 

@@ -1,5 +1,4 @@
-# import fastdup
-import requests
+import fastdup
 import cv2
 import os
 import numpy as np
