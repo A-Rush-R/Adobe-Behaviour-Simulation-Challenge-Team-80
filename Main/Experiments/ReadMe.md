@@ -12,7 +12,7 @@ This folder contains notebooks(colab only) for the following tasks :-
     - [Video_frames_clustering](Video_frames_clustering.ipynb)
     - [Video_frame_extraction](Video_frame_extraction.ipynb)
 3. Audio Captioning 
-    - [WhisperTINY](WhisperTINY.ipynb)
+    - [Whisper](Whisper.ipynb)
 4. Sentiment Analysis 
     - [Sentiment_extraction](Sentiment_extraction.ipynb)
 5. Models for task 1 
