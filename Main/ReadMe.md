@@ -21,7 +21,7 @@ This repository contains the following :-
 6. [Task_2](Task_2/) folder, containing the code for running our Content Simulation model on custom dataset.
 
 ## Instructions
-For the instructions on how to run the models, check out the ReadMe in the [Task_1](Task_1/) and [Task_2](Task_2/) folder.If for any reason the code does not run, please go to the colab instances :-
+For the instructions on how to run the models, check out the ReadMe in the [Task_1](Task_1/) and [Task_2](Task_2/) folder. If for any reason the code does not run, please go to the colab instances :-
 - [Colab instance for task 1](https://colab.research.google.com/drive/15yXlPs_nXZrbGHF64Tn_Klmpk5oQWxoF?usp=sharing)
 - [Colab instance for task 2](https://colab.research.google.com/drive/1Lyfixl-h7PeEf8RakbjMA9LWdhfl2mBe?usp=sharing)
 
