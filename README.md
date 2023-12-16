@@ -3,6 +3,8 @@
 **Behaviour Simulation** | **Content Simulation** <br>
 &emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GXOhJ7rDmb-6ijpZzxTroug7I_ACbiNE?usp=sharing) &emsp; &nbsp;&emsp;  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zulk3BocFkqu1xTUbQwcvH7NqhYplHeZ?usp=sharing) 
 
+![Image 1](media\photo1.png) | ![Image 2](media\photo2.png)
+:-------------------------:|:-------------------------:
 ## Description
 
 ### Behaviour Simulation
@@ -13,7 +15,7 @@ The problem statement revolves around the task of reconstructing or generating t
 ## Contents
 This repository contains the following :-
 1. Colab Notebooks for both the tasks. Instructions for which is mentioned in the notebook itself. 
-2. [result](result/) folder containing result :-
+2. [results](results/) folder containing result :-
     - [behaviour_simulation_test_company.xlsx](/results/behaviour_simulation_test_company.xlsx)
     - [behaviour_simulation_test_time.xlsx](/results/behaviour_simulation_test_time.xlsx)
     - [content_simulation_test_company.xlsx](/results/content_simulation_test_company.xlsx)
