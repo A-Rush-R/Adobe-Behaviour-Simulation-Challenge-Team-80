@@ -1,7 +1,11 @@
 # Behaviour Simulation Challenge
 
+<div style="text-align:center;">
+
 **Behaviour Simulation** | **Content Simulation** <br>
 &emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GXOhJ7rDmb-6ijpZzxTroug7I_ACbiNE?usp=sharing) &emsp; &nbsp;&emsp;  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zulk3BocFkqu1xTUbQwcvH7NqhYplHeZ?usp=sharing) 
+
+</div>
 
 ## Description
 
