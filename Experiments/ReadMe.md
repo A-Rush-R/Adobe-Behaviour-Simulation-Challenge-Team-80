@@ -1,4 +1,5 @@
 # Experiments
+This folder consists of the notebooks that we experimented with, with the results.
 
 ## Contents
 
