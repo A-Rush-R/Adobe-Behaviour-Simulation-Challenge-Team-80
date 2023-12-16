@@ -3,18 +3,18 @@
 **Behaviour Simulation** | **Content Simulation** <br>
 &emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GXOhJ7rDmb-6ijpZzxTroug7I_ACbiNE?usp=sharing) &emsp; &nbsp;&emsp;  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zulk3BocFkqu1xTUbQwcvH7NqhYplHeZ?usp=sharing) 
 
-<div style="display: flex; justify-content: center;">
-    <img src="media/photo1.png" alt="Image 1" style="width:40%; margin-right: auto; padding: 10px;">
-    <img src="media/photo2.png" alt="Image 2" style="width:40%; margin-left: auto; padding: 10px;">
-</div>
-
-
 
 ## Description
 
 ### Behaviour Simulation
+<div style="display: flex; justify-content: center;">
+    <img src="media/photo1.png" alt="Image 1" style="width:40%; margin-left: auto; padding: 10px;">    
+</div>
 The task at hand involved predicting user engagement, specifically the number of likes, for tweets. The prediction was based on various factors, including the content of the tweet (text), the associated company, the username of the account posting the tweet, any media URLs included, and the timestamp of the tweet. This problem required the development of a predictive model that can effectively analyze these features to estimate the likely number of likes a tweet will receive
 ### Content Simulation
+<div style="display: flex; justify-content: center;">
+    <img src="media/photo2.png" alt="Image 2" style="width:40%; margin-left: auto; padding: 10px;">   
+</div>
 The problem statement revolves around the task of reconstructing or generating the textual content of a tweet based solely on its metadata. The metadata includes information such as the associated company, username, media URL, and timestamp. In essence, the challenge is to infer the message or information conveyed in the tweet without having access to the actual text.
 
 ## Contents
