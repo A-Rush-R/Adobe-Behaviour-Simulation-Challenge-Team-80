@@ -20,7 +20,7 @@ python main.py "<$path_to_excel_file>"
 
 ## Additional 
 The [Experiments](Experiments/) folder consists of code and weights for the [NIMA](https://github.com/titu1994/neural-image-assessment/tree/master
-) and [IIPA](https://github.com/dingkeyan93/Intrinsic-Image-Popularity/blob/master/test.py) model which we experimented with, to get a score on image and use it in the likes prediction.
+) and [IIPA](https://github.com/dingkeyan93/Intrinsic-Image-Popularity/blob/master/test.py) model which we experimented with, to get a score on image and use it in the likes prediction. 
 
 <!-- - Run ```pip install -r requirements.txt``` to install the dependencies
 - Download the dataset in the directory
