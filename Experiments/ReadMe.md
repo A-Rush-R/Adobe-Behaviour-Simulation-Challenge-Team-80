@@ -1,6 +1,6 @@
 # Experiments
 
-## Instructions
+## Contents
 
 This folder contains notebooks for the following tasks :-
 
@@ -19,3 +19,5 @@ This folder contains notebooks for the following tasks :-
     - [Resnet50GUEModel](Resnet50GUEModel.ipynb)
     - [Smaller_Custom_Model](Smaller_Custom_Model.ipynb)
     - [VsCNN](VsCNN.ipynb)
+6. Model for Task 2 
+    - [Applying_llama2_for_content_generation](Applying_llama2_for_content_generation.ipynb)
