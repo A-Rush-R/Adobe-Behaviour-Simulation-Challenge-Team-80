@@ -3,10 +3,10 @@
 ## Description
 
 <p align="center">
-    <img src = "media\Task1.jpg" height="200" alt="Image">
+    <img src = "media\Task1.jpg" height="300" alt="Image">
 </p>
 <p align="center">
-    <img src = "media\Task2.jpg" height="200" alt="Image">
+    <img src = "media\Task2.jpg" height="300" alt="Image">
 </p>
 
 <!-- ![Approach for Task 1](media\Task1.jpg)
