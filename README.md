@@ -1,4 +1,4 @@
 # poems
 a collection of my favourite poems
 Trying to get the hang of git.
-Bye :)
+[le poem 1](poem1.txt)
