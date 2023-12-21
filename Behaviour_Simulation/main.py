@@ -9,10 +9,8 @@ from media_proc import embed_df
 import os
 
 def main(dataset_path):
-    # name = "time" #
 
     df = pd.read_excel(dataset_path)
-    df = df.iloc[:10]
     og_df = df.copy()
 
     working_df = df.copy()
@@ -29,6 +27,7 @@ def main(dataset_path):
     predictions = model.predict(test_gen)
 
     og_df['prediction'] = predictions
+    working_df['prediction'] = predictions
     final_df = og_df[['id','prediction']]
     try:
         os.mkdir("outputs")

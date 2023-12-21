@@ -35,6 +35,7 @@ This repository contains the following :-
 4. [Experiments](Experiments/) folder, containing notebooks for all the approaches undertaken by us.
 5. [Behaviour_Simulation](Behaviour_Simulation/) folder, containing the code for running our Behaviour Simulation model on custom dataset.
 6. [Content_Simulation](Content_Simulation/) folder, containing the code for running our Content Simulation model on custom dataset.
+7. [Metadata_features](Metadata_features/) folders, containing the excel file with the features that we have extracted for our pipeline.
 
 ## Instructions
 For the instructions on how to run the models, check out the ReadMe in the [Behaviour_Simulation](Behaviour_Simulation/) and [Content_Simulation](Content_Simulation/) folder. If for any reason the code does not run, please go to the colab instances :-
